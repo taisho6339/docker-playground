@@ -1,0 +1,4 @@
+- Docker NativeではわざわざVMたてなくてもMacのリソース使ってDocker Machine建てられそう
+- VirtualBox使ってるのはわかったけど、中のOSどうなってるの？？LinuxのイメージでゲストOS立ててるんじゃないの。
+- Tomcat + Springアプリケーションをコンテナとしてラップするにはどうしたらいいんだろう。
+- コンテナの状態を変えたら変更差分にContainerIDがつくとかいてあるがどういうことか。
